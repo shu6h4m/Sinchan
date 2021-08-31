@@ -1,2 +1,2 @@
 # Sinchan
-Drawing Sinchan in Python
+Drawing Sinchan in Python using turtle
